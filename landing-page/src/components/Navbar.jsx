@@ -42,7 +42,10 @@ function handleClick() {
           </Link>
         </li>
         <li>
-          <button>Try It Now</button>
+        <Link to="/features" className="link">
+        <button>Try It Now</button>
+          </Link>
+        
         </li>
       </ul>
       <div className="mobile">
